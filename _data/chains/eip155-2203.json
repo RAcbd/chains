@@ -1,10 +1,10 @@
 {
-  "name": "Bitcoin EVM",
+  "name": "Bitcoin EVM (ERC20)",
   "chain": "Bitcoin EVM",
   "rpc": ["https://connect.bitcoinevm.com"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Bitcoin (ERC20)",
+    "name": "Bitcoin",
     "symbol": "BTC",
     "decimals": 18
   },
