@@ -1,5 +1,5 @@
 {
-  "name": "BNB Smart Chain Mainnet",
+  "name": "Binance Mainnet",
   "chain": "BSC",
   "rpc": [
     "https://bsc-dataseed1.bnbchain.org",
